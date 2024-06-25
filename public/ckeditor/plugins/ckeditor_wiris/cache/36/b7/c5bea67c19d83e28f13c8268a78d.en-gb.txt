@@ -1,0 +1,1 @@
+{"result":{"text":"1 half asterisk times left parenthesis y to the power of hat subscript i minus y subscript i right parenthesis squared"},"status":"ok"}
